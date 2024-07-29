@@ -2,6 +2,10 @@
 cache/
 out/
 lib/
+lib/
+lib/forge-std/
+lib/foundry-devops/
+lib/openzeppelin-contracts/
 
 # Ignores development broadcast logs
 !/broadcast
